@@ -1,5 +1,7 @@
-Hi there 👋
-Welcome to my GitHub profile!
+Hi there 👋  
+
+Welcome to my GitHub profile!  
+
 I am an aspiring data scientist with a passion for using data to drive decision-making and solve real-world problems.
 - 💻 Skills :  
        - Proficient in Python and its scientific libraries (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn)  
