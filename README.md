@@ -1,7 +1,5 @@
 <h2> Hi there 👋  </h2>
-
 Welcome to my GitHub profile!
-
 <h3> 👨🏻‍💻 About Me </h3>
 
 I am an aspiring data scientist with a passion for using data to drive decision-making and solve real-world problems.
