@@ -16,5 +16,9 @@ I am an aspiring data scientist with a passion for using data to drive decision-
 - 💬 Ask me about machine learning models
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am ambidextrous! 
-- 📫 How to reach me: rajshree.mishra04@gmail.com
+- 📫 How to reach me: 
+<p align="center">  
+&nbsp; <a href="https://www.linkedin.com/in/rajshree-mishra/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:rajshree.mishra04@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
 
