@@ -7,7 +7,7 @@ I am an aspiring data scientist with a passion for using data to drive decision-
        - Proficient in Python and its scientific libraries (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn)  
        - Strong understanding of statistical models and machine learning algorithms   
        - Experience with data visualization and data cleaning   
-       - Familiar with big data tools such as SQL, Tableau and Hadoop  
+       - Expertise in big data tools such as SQL, Tableau and Hadoop  
   
 - 🔭 I’m currently working on data science and analytics projects.
 - 🌱 I’m currently learning about Neural Networks
