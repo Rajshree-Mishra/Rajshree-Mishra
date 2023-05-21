@@ -12,7 +12,7 @@ I am an aspiring data scientist with a passion for using data to drive decision-
 - 🔭 I’m currently working on data science and analytics projects.
 - 🌱 I’m currently learning about Neural Networks
 - 👯 I’m looking to collaborate on Predictive Data Science Projects
-- 🤔 I’m looking for help with job roles in Data Science/Analytics within the US
+- 🤔 I’m actively seeking roles in Data Science/Analytics within the US
 - 💬 Ask me about machine learning models
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am ambidextrous! 
